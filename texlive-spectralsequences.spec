@@ -1,6 +1,6 @@
 Name:		texlive-spectralsequences
 Version:	62261
-Release:	1
+Release:	2
 Summary:	Print spectral sequence diagrams using PGF/TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spectralsequences
